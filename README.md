@@ -8,7 +8,9 @@ This is reimplamentation of the nanoGPT. The current dataset is set to "shakespe
 Dependencies:
 
 tqdm
+
 TensorFlow 
+
 Numpy
 
 ## Files
